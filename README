@@ -1,0 +1,7 @@
+Meu código tem as seguintes funcionalidades:
+
+-Inserção correta em todos os casos;
+-Busca da chave com alguns problemas de arredondamento;
+-Print da árvore completa;
+-Remoção de chaves presentes na raiz (somente quando tem valores só na raiz);
+-No teste automatizado, eu coloquei somente para fazer a inserção dos valores pedidos no enunciado, isso pois a remoção ficou incompleta.
