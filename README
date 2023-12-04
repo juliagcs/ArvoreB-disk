@@ -1,5 +1,4 @@
-O projeto envolve a implementação de uma Árvore B em disco, criada como parte da disciplina de Técnicas de Programação no curso de Bacharelado em Engenharia de Computação do IFMG campus Bambuí. De acordo com as instruções do professor Samuel Pereira Dias, a Árvore B em disco é um arquivo especializado no qual cada página é armazenada como um registro do arquivo. O programa tem a finalidade de armazenar um conjunto de objetos do Tipo Abstrato de Dados (TAD) serialCurrency na Árvore B. Cada página da árvore é armazenada como um registro de arquivo tipado, conforme abordado durante a disciplina.
-
+O projeto envolve a implementação de uma Árvore B em disco, criada como parte da disciplina de Técnicas de Programação no curso de Bacharelado em Engenharia de Computação do IFMG campus Bambuí. De acordo com as instruções do professor Samuel Pereira Dias, a Árvore B em disco é um arquivo especializado no qual cada página é armazenada como um registro do arquivo. O programa tem a finalidade de armazenar um conjunto de objetos do Tipo Abstrato de Dados (TAD) serialCurrency na Árvore B. Cada página da árvore é armazenada como um registro de arquivo tipado.
 Meu código tem as seguintes funcionalidades:
 
 -Inserção correta em todos os casos;
