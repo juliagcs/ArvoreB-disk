@@ -1,4 +1,5 @@
 O projeto envolve a implementação de uma Árvore B em disco, criada como parte da disciplina de Técnicas de Programação no curso de Bacharelado em Engenharia de Computação do IFMG campus Bambuí. De acordo com as instruções do professor Samuel Pereira Dias, a Árvore B em disco é um arquivo especializado no qual cada página é armazenada como um registro do arquivo. O programa tem a finalidade de armazenar um conjunto de objetos do Tipo Abstrato de Dados (TAD) serialCurrency na Árvore B. Cada página da árvore é armazenada como um registro de arquivo tipado, conforme abordado durante a disciplina.
+
 Meu código tem as seguintes funcionalidades:
 
 -Inserção correta em todos os casos;
@@ -6,3 +7,5 @@ Meu código tem as seguintes funcionalidades:
 -Print da árvore completa;
 -Remoção de chaves presentes na raiz (somente quando tem valores só na raiz);
 -No teste automatizado, eu coloquei somente para fazer a inserção dos valores pedidos no enunciado, isso pois a remoção ficou incompleta.
+
+Referência: CORMEN, Thomas H.; LEISERSON, Charles E.; RIVEST, Ronald L.; STEIN, Clifford. Introduction to Algorithms. 3rd ed. Cambridge, Massachusetts: The MIT Press, 2009. 1292 p. ISBN 978-0-262-53305-8.
